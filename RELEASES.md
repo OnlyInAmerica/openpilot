@@ -12,6 +12,7 @@ Version 0.11.3 (2026-XX-XX)
   * Improved sleep detection
 * comma four UI updates
 * Romanian translation thanks to adriantabirta!
+* Subaru Crosstrek Hybrid 2020-21 support
 
 Version 0.11.2 (2026-10-14)
 =======================
