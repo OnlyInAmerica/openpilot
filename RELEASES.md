@@ -7,6 +7,7 @@ Version 0.11.4 (2026-XX-XX)
     * adjusting speed based on surrounding traffic
   * This behavior was previously available with openpilot's "Experimental mode", but is now out of beta and always enabled
   * With openpilot deciding which speed to drive, the car's cruise speed is treated as a maximum speed openpilot will not exceed
+* Subaru Crosstrek Hybrid 2020-21 support
 
 Version 0.11.3 (2026-11-20)
 ========================
